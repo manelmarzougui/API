@@ -1,0 +1,21 @@
+.App h1 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: brown;
+}
+.App {
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  padding: 57px;
+}
+.caard {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.info {
+  text-align: center;
+}
